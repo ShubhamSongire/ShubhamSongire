@@ -71,12 +71,6 @@
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/python-original.svg" style="height: 40px;" alt="python" />
     <img style="width: 6px;">
   </span>
-  <!-- sql -->
-  <span>
-    <img style="width: 6px;">
-    <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/nextscape_blog/20210911/20210911000000.png" style="height: 40px;" alt="matlab" />
-    <img style="width: 6px;">
-  </span>
   <!-- matlab -->
   <span>
     <img style="width: 6px;">
@@ -233,30 +227,6 @@
 ###
   
 <div align="left" id="web-dev">
-  <!-- html -->
-  <span>
-    <img style="width: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/html5-original.svg" style="height: 40px;" alt="html5" />
-    <img style="width: 6px;">
-  </span>
-  <!-- css -->
-  <span>
-    <img style="width: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/css3-original.svg" style="height: 40px;" alt="css3" />
-    <img style="width: 6px;">
-  </span>
-  <!-- js -->
-  <span>
-    <img style="width: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/javascript-plain.svg" style="height: 40px;" alt="javascript" />
-    <img style="width: 6px;">
-  </span>
-  <!-- react -->
-  <span>
-    <img style="width: 6px;">
-    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/react-original.svg" style="height: 40px;" alt="react.js" />
-    <img style="width: 6px;">
-  </span>
   <!-- streamlit -->
   <span>
     <img style="width: 6px;">
@@ -274,6 +244,24 @@
     <img style="width: 6px;">
     <!-- delete local ref line and un-comment github one -->
     <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/fastapi-original.svg" style="height: 40px;" alt="fast-api" />
+    <img style="width: 6px;">
+  </span>
+  <!-- html -->
+  <span>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/html5-original.svg" style="height: 40px;" alt="html5" />
+    <img style="width: 6px;">
+  </span>
+  <!-- css -->
+  <span>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/css3-original.svg" style="height: 40px;" alt="css3" />
+    <img style="width: 6px;">
+  </span>
+  <!-- js -->
+  <span>
+    <img style="width: 6px;">
+    <img src="https://cdn.jsdelivr.net/gh/Bbs1412/Bbs1412/asset_files/javascript-plain.svg" style="height: 40px;" alt="javascript" />
     <img style="width: 6px;">
   </span>
   <!-- postman -->
@@ -458,7 +446,6 @@
 ### 🏆 Certifications
 
 - ✅ **Azure AI Fundamentals (AI-900)**  
-- 🎓 **M.Tech AIML – BITS Pilani**  
 - 📊 **Applied Data Science Specialization – Coursera**  
 
 ---
